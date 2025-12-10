@@ -1,0 +1,3 @@
+this content for daily learning of Brian
+
+image::./assets/img/IMG_3289.JPG[alt]
